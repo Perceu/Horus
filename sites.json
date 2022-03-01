@@ -1,0 +1,15 @@
+{
+    "sites":[
+        {
+            "nome":"Code Tools",
+            "url":"http://codetools.com.br",
+            "title":"Code",
+            "timeout":4
+        },
+        {
+            "nome":"Fake Site",
+            "url":"http://fakesite.fs.br",
+            "title":"Fake"
+        }
+    ]
+}
